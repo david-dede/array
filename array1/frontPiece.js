@@ -1,4 +1,4 @@
-// function frontPiece(nums){
-// return nums.slice(0,2)
+function frontPiece(nums){
+return nums.slice(0,2)
 
-// }
+}
